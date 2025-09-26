@@ -17,12 +17,17 @@ If applicable, add screenshots to help explain your problem
 
 **Extension Version**
 Which version of Socket Inspector are you using?
-- You can find this by entering `chrome://extensions/` in the address bar
+- You can find this by entering `chrome://extensions` in the Chrome address bar
+
+version: `<enter version number here>`
+
 
 **Chrome Version**
-What version of Chrome are you using?
+What version of Chrome are you using? 
+- You can find this by entering `chrome://settings/help` in the Chrome address bar
 
-- You can find this by entering `chrome://settings/help` in the address bar
+
+version: `<enter version number here>`
 
 **OS**
 Which OS do you use?
