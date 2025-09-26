@@ -1,7 +1,7 @@
 ---
 name: Question
 about: Ask a question or get help using Socket Inspector
-title: ''
+title: "[QUESTION]:"
 labels: ''
 assignees: ''
 
