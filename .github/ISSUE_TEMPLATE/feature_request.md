@@ -1,8 +1,8 @@
 ---
 name: Feature request
 about: Suggest an idea for Socket Inspector
-title: "[FEATURE_REQUEST]:"
-labels: ''
+title: ''
+labels: enhancement
 assignees: ''
 
 ---
