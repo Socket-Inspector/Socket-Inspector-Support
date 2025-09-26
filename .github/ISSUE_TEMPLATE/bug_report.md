@@ -22,7 +22,8 @@ Socket Inspector version: `<enter version number here>`
 
 **Chrome Version**
 What version of Chrome are you using? 
-- You can find this by entering `chrome://settings/help` in the Chrome address bar
+
+You can find this by entering `chrome://settings/help` in the Chrome address bar
 
 Chrome Version: `<enter version number here>`
 
