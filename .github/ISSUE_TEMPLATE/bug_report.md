@@ -11,7 +11,7 @@ assignees: ''
 What issue are you seeing?
 
 **Steps to reproduce**
-Please let us know how to reproduce the issue. Screenshots, urls, etc are helpful as well!
+Please let us know how to reproduce the issue. Screenshots and page urls are helpful if possible!
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem
