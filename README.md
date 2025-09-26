@@ -6,3 +6,4 @@ TODO:
 - support email
 - app screenshots?
 - branch protections
+- issue templates/labels
