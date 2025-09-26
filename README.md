@@ -7,3 +7,4 @@ TODO:
 - app screenshots?
 - branch protections
 - issue templates/labels
+- link from chrome extension: 'request a feature' and 'report a bug' options?
