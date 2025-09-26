@@ -3,6 +3,7 @@ Official feedback and issue tracker for the Socket Inspector Chrome extension.
 
 TODO:
 - discord?
+- links to different issue types?
 - support email
 - app screenshots?
 - branch protections
