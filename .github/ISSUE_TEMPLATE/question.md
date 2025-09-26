@@ -8,4 +8,4 @@ assignees: ''
 ---
 
 **What’s your question?** 
-Ask away! Please describe what you’d like to know or what you’re having trouble with. Links, screenshots, etc are welcome!
+Ask away! Please describe what you’d like to know or what you’re having trouble with.
