@@ -13,9 +13,6 @@ What issue are you seeing?
 **Steps to reproduce**
 Please let us know how to reproduce the issue. Screenshots and page urls are helpful if possible!
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem
-
 **Extension Version**
 Which version of Socket Inspector are you using?
 - You can find this by entering `chrome://extensions` in the Chrome address bar
