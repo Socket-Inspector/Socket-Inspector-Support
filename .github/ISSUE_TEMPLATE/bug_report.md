@@ -10,8 +10,8 @@ assignees: ''
 **Describe the Bug**
 What issue are you seeing?
 
-**To Reproduce**
-Steps to reproduce the behavior
+**Steps to reproduce**
+Please let us know how to reproduce the issue. Screenshots, urls, etc are helpful as well!
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem
