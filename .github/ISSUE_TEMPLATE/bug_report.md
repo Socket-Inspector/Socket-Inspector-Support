@@ -27,7 +27,7 @@ You can find this by entering `chrome://settings/help` in the Chrome address bar
 
 Chrome Version: `<enter version number here>`
 
-**OS**
+**Operating System**
 Which OS do you use?
 - [ ] macOS
 - [ ] Windows
